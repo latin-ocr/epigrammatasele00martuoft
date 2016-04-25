@@ -1,0 +1,44 @@
+SIGLA
+
+A = Vossianus Leidensis primus (Q 56), saec. xi
+ΑΛ = archetypum codicum HTR
+B = Vossianus Leidensis secundus (Q 121), saec. xii
+BA = archetypum codicum LPQJW
+C= Vossianus Leidensis tertius (F 89), saec, xiv
+CA = archetypum codicum EXA V Epored. BGC
+cod. = codex archetypus qui solus est in hac parte testis
+codd. = codices archetypi qui soli sunt in hac parte testes
+D = Diezianum florilegium Berolinense (60), saec. xiv
+E = Edinburgensis bibliothecae Facultatis Advocatorum,
+saec. x in.
+
+Epored. = Eporediense fragmentum, saec. xi. Continet XIII
+
+1-cx
+F = Florentinus membranaceus bibliothecae Laurentianae
+(xxxv 38), saec. xv
+s= Florentinus chartaceus bibliothecae Laurentianae
+(xxxv 39), saec. xv
+Fris. = Frisingensia excerpta bibliothecae Monacensis,
+(6292) saec. xi
+G = Gudianus Wolfenbuttelensis (157), saec. xii
+H= Hauptii florilegium Vindobonense (277), saec. ix in.
+Continet Spect. xix—xxx, I iii—iv
+Ital. = Italorum doctorum coniecturas codices et libri im-
+pressi qui exhibent
+L = Lucensis bibliothecae regiae Berolinensis (fol. 612),
+saec. xii
+M = marginalia Bongarsiana in libro impresso biblio-
+thecae publicae Bernensis (G 152)
+N = Nostradamensia excerpta Parisina (188), saec, xiii
+P = Palatinus Vaticanus (1696), saec. xv
+Q = Arondellianus Musei Britannici (136), saec. xv
+R = Vossianum florilegium Leidense (Q 86), sace. ix
+T= Thuaneum florilegium Parisinum (8071), saec. ix—x
+V= Vaticanus (3294), saec. x
+W= VVittianum fragmentum Perusiae repertum, saec,
+xiii. Continet X xxxvii—xxxviii
+X = Puteanus Parisinus (8067), saec. x
+
+' . ‘s
+
